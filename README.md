@@ -1,2 +1,3 @@
 # hello-world
-my first depository
+
+Hi, people! I'm Oleh.
